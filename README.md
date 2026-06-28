@@ -2,7 +2,7 @@
 
 A C++ Object-Oriented Banking System that demonstrates core OOP principles — single inheritance, multiple inheritance, polymorphism, template classes, and composition — through a simulated bank with users, bankers, partners, VIP users, and a transaction queue.
 
-**Course:** CS256
+**Course:** CS2256
 
 **Author:** Vu Quang Huy
 
