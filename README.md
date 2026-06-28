@@ -1,4 +1,4 @@
-# BankingSystem
+# Banking System OOP
 
 A C++ Object-Oriented Banking System that demonstrates core OOP principles — single inheritance, multiple inheritance, polymorphism, template classes, and composition — through a simulated bank with users, bankers, partners, VIP users, and a transaction queue.
 
